@@ -6,7 +6,7 @@ DataIn dataIn;
 
 int feedId = 12467;
 String feedURL = "http://www.pachube.com/api/feeds/";
-String apiKey = "444b44c82344fc4571bcf4f40a3c4f534124055fadf8b1aaae1b4985ebf00174";
+String apiKey = "API KEY";
 
 
 void setup(){  
